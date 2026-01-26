@@ -130,33 +130,28 @@ def main():
         cursor.execute(sqlReadStat)
         trafoStat = cursor.fetchall()[0][28]
         cursor.execute(sqlReadStatParam)
-        WTIStat = [0]*3
-        otiStat = cursor.fetchall()[0][19]
-        WTIStat[0] = cursor.fetchall()[0][20]
-        WTIStat[1] = cursor.fetchall()[0][21]
-        WTIStat[2] = cursor.fetchall()[0][22]
+        accStat = cursor.fetchall()[0]
+        WTIStat = [accStat[20], accStat[21], accStat[22]]
+        otiStat = accStat[19]
         db.commit()
         
         if debugMsg == True: print("2D|4 Update DO based on Trafo stat & Gas Fault stat")
+        #print(otiStat)
         if otiStat == 3:
             cursor.execute(sqlUpdateDO, [0, 4])
             cursor.execute(sqlUpdateDO, [0, 1])
         elif otiStat == 4:
             cursor.execute(sqlUpdateDO, [1, 4])
-            cursor.execute(sqlUpdateDO, [0, 1])
         elif otiStat == 5:
-            cursor.execute(sqlUpdateDO, [0, 4])
             cursor.execute(sqlUpdateDO, [1, 1])
         if max(WTIStat) == 3:
             cursor.execute(sqlUpdateDO, [0, 0])
             cursor.execute(sqlUpdateDO, [0, 2])
         elif max(WTIStat) == 4:
             cursor.execute(sqlUpdateDO, [1, 0])
-            cursor.execute(sqlUpdateDO, [0, 2])
         elif max(WTIStat) == 5:
-            cursor.execute(sqlUpdateDO, [0, 0])
             cursor.execute(sqlUpdateDO, [1, 2])
-        cursor.execute(sqlUpdateDO, [valveStat, 4])
+        #cursor.execute(sqlUpdateDO, [valveStat, 4])
         
         if debugMsg == True: print("2D|5 PB Logic")
         if trafoStat != prevStatBuzz and trafoStat != 0:

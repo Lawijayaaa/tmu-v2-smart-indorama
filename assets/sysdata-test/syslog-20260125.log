@@ -1,0 +1,1423 @@
+2026-01-25 10:25:27,801 | DEBUG: Starting App
+2026-01-25 10:25:27,801 | INFO: Initializing App
+2026-01-25 10:25:27,801 | DEBUG: Start module_IO
+2026-01-25 10:25:27,801 | DEBUG: Starting process: module_IO.py
+2026-01-25 10:25:27,802 | DEBUG: Process module_IO.py started with PID: 431787
+2026-01-25 10:25:27,803 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 10:25:28,803 | DEBUG: Starting process: data_handler.py
+2026-01-25 10:25:28,804 | DEBUG: Process data_handler.py started with PID: 431792
+2026-01-25 10:25:28,804 | DEBUG: Init GUI Tkinter
+2026-01-25 10:25:29,038 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 10:25:29,039 | DEBUG: proc2 Initialize program
+2026-01-25 10:25:29,040 | DEBUG: proc2 Start loop
+2026-01-25 10:45:33,304 | DEBUG: Starting App
+2026-01-25 10:45:33,305 | INFO: Initializing App
+2026-01-25 10:45:33,305 | DEBUG: Start module_IO
+2026-01-25 10:45:33,305 | DEBUG: Starting process: module_IO.py
+2026-01-25 10:45:33,306 | DEBUG: Process module_IO.py started with PID: 437686
+2026-01-25 10:45:33,306 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 10:45:34,307 | DEBUG: Starting process: data_handler.py
+2026-01-25 10:45:34,309 | DEBUG: Process data_handler.py started with PID: 437697
+2026-01-25 10:45:34,310 | DEBUG: Init GUI Tkinter
+2026-01-25 10:45:35,047 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 10:45:35,049 | DEBUG: proc2 Initialize program
+2026-01-25 10:45:35,049 | DEBUG: proc2 Start loop
+2026-01-25 10:46:05,312 | DEBUG: proc1 Initialize Program
+2026-01-25 10:46:05,312 | DEBUG: proc1 Open Existing Excel
+2026-01-25 10:46:05,312 | DEBUG: proc1 Start Loop
+2026-01-25 10:49:31,322 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 10:49:31,322 | DEBUG: proc1 Backup Excel
+2026-01-25 10:49:31,323 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 10:49:31,323 | DEBUG: proc1 Excel Size 1999724
+2026-01-25 10:49:31,323 | DEBUG: proc1 Backup Size 1989328
+2026-01-25 10:49:31,323 | DEBUG: proc1 Save Success
+2026-01-25 10:53:04,188 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 10:53:04,189 | DEBUG: proc1 Backup Excel
+2026-01-25 10:53:04,189 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 10:53:04,189 | DEBUG: proc1 Excel Size 2010676
+2026-01-25 10:53:04,189 | DEBUG: proc1 Backup Size 1999724
+2026-01-25 10:53:04,189 | DEBUG: proc1 Save Success
+2026-01-25 10:56:37,712 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 10:56:37,712 | DEBUG: proc1 Backup Excel
+2026-01-25 10:56:37,712 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 10:56:37,712 | DEBUG: proc1 Excel Size 2020676
+2026-01-25 10:56:37,712 | DEBUG: proc1 Backup Size 2010676
+2026-01-25 10:56:37,712 | DEBUG: proc1 Save Success
+2026-01-25 11:00:11,131 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:00:11,131 | DEBUG: proc1 Backup Excel
+2026-01-25 11:00:11,131 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:00:11,131 | DEBUG: proc1 Excel Size 2031487
+2026-01-25 11:00:11,132 | DEBUG: proc1 Backup Size 2020676
+2026-01-25 11:00:11,132 | DEBUG: proc1 Save Success
+2026-01-25 11:03:42,404 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:03:42,405 | DEBUG: proc1 Backup Excel
+2026-01-25 11:03:42,405 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:03:42,405 | DEBUG: proc1 Excel Size 2041988
+2026-01-25 11:03:42,405 | DEBUG: proc1 Backup Size 2031487
+2026-01-25 11:03:42,405 | DEBUG: proc1 Save Success
+2026-01-25 11:07:14,200 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:07:14,200 | DEBUG: proc1 Backup Excel
+2026-01-25 11:07:14,200 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:07:14,200 | DEBUG: proc1 Excel Size 2052369
+2026-01-25 11:07:14,200 | DEBUG: proc1 Backup Size 2041988
+2026-01-25 11:07:14,200 | DEBUG: proc1 Save Success
+2026-01-25 11:09:11,746 | DEBUG: Starting App
+2026-01-25 11:09:11,747 | INFO: Initializing App
+2026-01-25 11:09:11,747 | DEBUG: Start module_IO
+2026-01-25 11:09:11,747 | DEBUG: Starting process: module_IO.py
+2026-01-25 11:09:11,748 | DEBUG: Process module_IO.py started with PID: 446579
+2026-01-25 11:09:11,749 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 11:09:12,749 | DEBUG: Starting process: data_handler.py
+2026-01-25 11:09:12,750 | DEBUG: Process data_handler.py started with PID: 446586
+2026-01-25 11:09:12,751 | DEBUG: Init GUI Tkinter
+2026-01-25 11:09:12,983 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 11:09:12,985 | DEBUG: proc2 Initialize program
+2026-01-25 11:09:12,985 | DEBUG: proc2 Start loop
+2026-01-25 11:09:45,133 | DEBUG: proc1 Initialize Program
+2026-01-25 11:09:45,133 | DEBUG: proc1 Open Existing Excel
+2026-01-25 11:09:45,133 | DEBUG: proc1 Start Loop
+2026-01-25 11:13:11,910 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:13:11,910 | DEBUG: proc1 Backup Excel
+2026-01-25 11:13:11,910 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:13:11,910 | DEBUG: proc1 Excel Size 2062838
+2026-01-25 11:13:11,910 | DEBUG: proc1 Backup Size 2052369
+2026-01-25 11:13:11,911 | DEBUG: proc1 Save Success
+2026-01-25 11:16:45,194 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:16:45,194 | DEBUG: proc1 Backup Excel
+2026-01-25 11:16:45,194 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:16:45,194 | DEBUG: proc1 Excel Size 2073646
+2026-01-25 11:16:45,194 | DEBUG: proc1 Backup Size 2062838
+2026-01-25 11:16:45,195 | DEBUG: proc1 Save Success
+2026-01-25 11:20:20,028 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:20:20,028 | DEBUG: proc1 Backup Excel
+2026-01-25 11:20:20,028 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:20:20,028 | DEBUG: proc1 Excel Size 2083744
+2026-01-25 11:20:20,029 | DEBUG: proc1 Backup Size 2073646
+2026-01-25 11:20:20,029 | DEBUG: proc1 Save Success
+2026-01-25 11:23:54,508 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:23:54,508 | DEBUG: proc1 Backup Excel
+2026-01-25 11:23:54,508 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:23:54,508 | DEBUG: proc1 Excel Size 2094505
+2026-01-25 11:23:54,509 | DEBUG: proc1 Backup Size 2083744
+2026-01-25 11:23:54,509 | DEBUG: proc1 Save Success
+2026-01-25 11:27:28,810 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:27:28,810 | DEBUG: proc1 Backup Excel
+2026-01-25 11:27:28,810 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:27:28,810 | DEBUG: proc1 Excel Size 2105366
+2026-01-25 11:27:28,811 | DEBUG: proc1 Backup Size 2094505
+2026-01-25 11:27:28,811 | DEBUG: proc1 Save Success
+2026-01-25 11:31:03,149 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:31:03,150 | DEBUG: proc1 Backup Excel
+2026-01-25 11:31:03,150 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:31:03,150 | DEBUG: proc1 Excel Size 2116270
+2026-01-25 11:31:03,150 | DEBUG: proc1 Backup Size 2105366
+2026-01-25 11:31:03,150 | DEBUG: proc1 Save Success
+2026-01-25 11:34:35,630 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:34:35,630 | DEBUG: proc1 Backup Excel
+2026-01-25 11:34:35,630 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:34:35,630 | DEBUG: proc1 Excel Size 2126755
+2026-01-25 11:34:35,630 | DEBUG: proc1 Backup Size 2116270
+2026-01-25 11:34:35,630 | DEBUG: proc1 Save Success
+2026-01-25 11:38:10,548 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:38:10,549 | DEBUG: proc1 Backup Excel
+2026-01-25 11:38:10,549 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:38:10,549 | DEBUG: proc1 Excel Size 2137658
+2026-01-25 11:38:10,550 | DEBUG: proc1 Backup Size 2126755
+2026-01-25 11:38:10,550 | DEBUG: proc1 Save Success
+2026-01-25 11:41:45,409 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:41:45,409 | DEBUG: proc1 Backup Excel
+2026-01-25 11:41:45,409 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:41:45,409 | DEBUG: proc1 Excel Size 2148505
+2026-01-25 11:41:45,409 | DEBUG: proc1 Backup Size 2137658
+2026-01-25 11:41:45,410 | DEBUG: proc1 Save Success
+2026-01-25 11:45:20,613 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:45:20,613 | DEBUG: proc1 Backup Excel
+2026-01-25 11:45:20,613 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:45:20,613 | DEBUG: proc1 Excel Size 2159313
+2026-01-25 11:45:20,614 | DEBUG: proc1 Backup Size 2148505
+2026-01-25 11:45:20,614 | DEBUG: proc1 Save Success
+2026-01-25 11:48:55,069 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:48:55,070 | DEBUG: proc1 Backup Excel
+2026-01-25 11:48:55,070 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:48:55,070 | DEBUG: proc1 Excel Size 2170135
+2026-01-25 11:48:55,070 | DEBUG: proc1 Backup Size 2159313
+2026-01-25 11:48:55,070 | DEBUG: proc1 Save Success
+2026-01-25 11:52:30,481 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:52:30,482 | DEBUG: proc1 Backup Excel
+2026-01-25 11:52:30,482 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:52:30,482 | DEBUG: proc1 Excel Size 2180967
+2026-01-25 11:52:30,482 | DEBUG: proc1 Backup Size 2170135
+2026-01-25 11:52:30,482 | DEBUG: proc1 Save Success
+2026-01-25 11:56:06,045 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:56:06,045 | DEBUG: proc1 Backup Excel
+2026-01-25 11:56:06,045 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:56:06,045 | DEBUG: proc1 Excel Size 2191707
+2026-01-25 11:56:06,046 | DEBUG: proc1 Backup Size 2180967
+2026-01-25 11:56:06,046 | DEBUG: proc1 Save Success
+2026-01-25 11:59:41,686 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 11:59:41,686 | DEBUG: proc1 Backup Excel
+2026-01-25 11:59:41,686 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 11:59:41,686 | DEBUG: proc1 Excel Size 2202455
+2026-01-25 11:59:41,686 | DEBUG: proc1 Backup Size 2191707
+2026-01-25 11:59:41,686 | DEBUG: proc1 Save Success
+2026-01-25 12:03:18,078 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:03:18,078 | DEBUG: proc1 Backup Excel
+2026-01-25 12:03:18,078 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:03:18,078 | DEBUG: proc1 Excel Size 2213274
+2026-01-25 12:03:18,078 | DEBUG: proc1 Backup Size 2202455
+2026-01-25 12:03:18,079 | DEBUG: proc1 Save Success
+2026-01-25 12:06:53,942 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:06:53,942 | DEBUG: proc1 Backup Excel
+2026-01-25 12:06:53,942 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:06:53,942 | DEBUG: proc1 Excel Size 2224101
+2026-01-25 12:06:53,943 | DEBUG: proc1 Backup Size 2213274
+2026-01-25 12:06:53,943 | DEBUG: proc1 Save Success
+2026-01-25 12:11:13,150 | INFO: Restarting machine: 2026-01-25 12:10:13.149722
+2026-01-25 12:11:25,537 | DEBUG: Starting App
+2026-01-25 12:11:25,538 | INFO: Initializing App
+2026-01-25 12:11:25,538 | DEBUG: Start module_IO
+2026-01-25 12:11:25,539 | DEBUG: Starting process: module_IO.py
+2026-01-25 12:11:25,540 | DEBUG: Process module_IO.py started with PID: 466663
+2026-01-25 12:11:25,540 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 12:11:26,540 | DEBUG: Starting process: data_handler.py
+2026-01-25 12:11:26,541 | DEBUG: Process data_handler.py started with PID: 466676
+2026-01-25 12:11:26,542 | DEBUG: Init GUI Tkinter
+2026-01-25 12:11:26,785 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 12:11:26,788 | DEBUG: proc2 Initialize program
+2026-01-25 12:11:26,788 | DEBUG: proc2 Start loop
+2026-01-25 12:12:01,259 | DEBUG: proc1 Initialize Program
+2026-01-25 12:12:01,259 | DEBUG: proc1 Open Existing Excel
+2026-01-25 12:12:01,259 | DEBUG: proc1 Start Loop
+2026-01-25 12:15:30,531 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:15:30,531 | DEBUG: proc1 Backup Excel
+2026-01-25 12:15:30,532 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:15:30,532 | DEBUG: proc1 Excel Size 2234507
+2026-01-25 12:15:30,532 | DEBUG: proc1 Backup Size 2224101
+2026-01-25 12:15:30,532 | DEBUG: proc1 Save Success
+2026-01-25 12:19:07,241 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:19:07,242 | DEBUG: proc1 Backup Excel
+2026-01-25 12:19:07,242 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:19:07,242 | DEBUG: proc1 Excel Size 2245319
+2026-01-25 12:19:07,242 | DEBUG: proc1 Backup Size 2234507
+2026-01-25 12:19:07,242 | DEBUG: proc1 Save Success
+2026-01-25 12:22:43,306 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:22:43,306 | DEBUG: proc1 Backup Excel
+2026-01-25 12:22:43,306 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:22:43,306 | DEBUG: proc1 Excel Size 2256170
+2026-01-25 12:22:43,307 | DEBUG: proc1 Backup Size 2245319
+2026-01-25 12:22:43,307 | DEBUG: proc1 Save Success
+2026-01-25 12:26:19,819 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:26:19,819 | DEBUG: proc1 Backup Excel
+2026-01-25 12:26:19,819 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:26:19,819 | DEBUG: proc1 Excel Size 2266914
+2026-01-25 12:26:19,819 | DEBUG: proc1 Backup Size 2256170
+2026-01-25 12:26:19,819 | DEBUG: proc1 Save Success
+2026-01-25 12:29:56,515 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:29:56,515 | DEBUG: proc1 Backup Excel
+2026-01-25 12:29:56,515 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:29:56,516 | DEBUG: proc1 Excel Size 2277706
+2026-01-25 12:29:56,516 | DEBUG: proc1 Backup Size 2266914
+2026-01-25 12:29:56,516 | DEBUG: proc1 Save Success
+2026-01-25 12:33:33,350 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:33:33,351 | DEBUG: proc1 Backup Excel
+2026-01-25 12:33:33,351 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:33:33,351 | DEBUG: proc1 Excel Size 2288554
+2026-01-25 12:33:33,351 | DEBUG: proc1 Backup Size 2277706
+2026-01-25 12:33:33,351 | DEBUG: proc1 Save Success
+2026-01-25 12:37:10,175 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:37:10,175 | DEBUG: proc1 Backup Excel
+2026-01-25 12:37:10,175 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:37:10,175 | DEBUG: proc1 Excel Size 2299332
+2026-01-25 12:37:10,175 | DEBUG: proc1 Backup Size 2288554
+2026-01-25 12:37:10,175 | DEBUG: proc1 Save Success
+2026-01-25 12:40:47,425 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:40:47,426 | DEBUG: proc1 Backup Excel
+2026-01-25 12:40:47,426 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:40:47,426 | DEBUG: proc1 Excel Size 2310196
+2026-01-25 12:40:47,426 | DEBUG: proc1 Backup Size 2299332
+2026-01-25 12:40:47,426 | DEBUG: proc1 Save Success
+2026-01-25 12:44:24,835 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:44:24,835 | DEBUG: proc1 Backup Excel
+2026-01-25 12:44:24,835 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:44:24,835 | DEBUG: proc1 Excel Size 2321015
+2026-01-25 12:44:24,836 | DEBUG: proc1 Backup Size 2310196
+2026-01-25 12:44:24,836 | DEBUG: proc1 Save Success
+2026-01-25 12:48:01,178 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:48:01,178 | DEBUG: proc1 Backup Excel
+2026-01-25 12:48:01,178 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:48:01,178 | DEBUG: proc1 Excel Size 2331824
+2026-01-25 12:48:01,178 | DEBUG: proc1 Backup Size 2321015
+2026-01-25 12:48:01,178 | DEBUG: proc1 Save Success
+2026-01-25 12:51:38,736 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:51:38,736 | DEBUG: proc1 Backup Excel
+2026-01-25 12:51:38,737 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:51:38,737 | DEBUG: proc1 Excel Size 2342675
+2026-01-25 12:51:38,737 | DEBUG: proc1 Backup Size 2331824
+2026-01-25 12:51:38,737 | DEBUG: proc1 Save Success
+2026-01-25 12:55:16,469 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:55:16,470 | DEBUG: proc1 Backup Excel
+2026-01-25 12:55:16,470 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:55:16,470 | DEBUG: proc1 Excel Size 2353455
+2026-01-25 12:55:16,470 | DEBUG: proc1 Backup Size 2342675
+2026-01-25 12:55:16,470 | DEBUG: proc1 Save Success
+2026-01-25 12:58:54,296 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 12:58:54,296 | DEBUG: proc1 Backup Excel
+2026-01-25 12:58:54,297 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 12:58:54,297 | DEBUG: proc1 Excel Size 2364212
+2026-01-25 12:58:54,297 | DEBUG: proc1 Backup Size 2353455
+2026-01-25 12:58:54,297 | DEBUG: proc1 Save Success
+2026-01-25 13:02:32,297 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:02:32,297 | DEBUG: proc1 Backup Excel
+2026-01-25 13:02:32,297 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:02:32,297 | DEBUG: proc1 Excel Size 2375060
+2026-01-25 13:02:32,297 | DEBUG: proc1 Backup Size 2364212
+2026-01-25 13:02:32,297 | DEBUG: proc1 Save Success
+2026-01-25 13:06:10,493 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:06:10,493 | DEBUG: proc1 Backup Excel
+2026-01-25 13:06:10,493 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:06:10,493 | DEBUG: proc1 Excel Size 2385775
+2026-01-25 13:06:10,494 | DEBUG: proc1 Backup Size 2375060
+2026-01-25 13:06:10,494 | DEBUG: proc1 Save Success
+2026-01-25 13:09:48,635 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:09:48,635 | DEBUG: proc1 Backup Excel
+2026-01-25 13:09:48,635 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:09:48,635 | DEBUG: proc1 Excel Size 2396485
+2026-01-25 13:09:48,635 | DEBUG: proc1 Backup Size 2385775
+2026-01-25 13:09:48,635 | DEBUG: proc1 Save Success
+2026-01-25 13:13:26,990 | INFO: Restarting machine: 2026-01-25 13:12:26.989755
+2026-01-25 13:13:39,492 | DEBUG: Starting App
+2026-01-25 13:13:39,492 | INFO: Initializing App
+2026-01-25 13:13:39,493 | DEBUG: Start module_IO
+2026-01-25 13:13:39,493 | DEBUG: Starting process: module_IO.py
+2026-01-25 13:13:39,494 | DEBUG: Process module_IO.py started with PID: 478773
+2026-01-25 13:13:39,494 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 13:13:40,495 | DEBUG: Starting process: data_handler.py
+2026-01-25 13:13:40,496 | DEBUG: Process data_handler.py started with PID: 478784
+2026-01-25 13:13:40,496 | DEBUG: Init GUI Tkinter
+2026-01-25 13:13:40,748 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 13:13:40,750 | DEBUG: proc2 Initialize program
+2026-01-25 13:13:40,750 | DEBUG: proc2 Start loop
+2026-01-25 13:14:16,504 | DEBUG: proc1 Initialize Program
+2026-01-25 13:14:16,504 | DEBUG: proc1 Open Existing Excel
+2026-01-25 13:14:16,504 | DEBUG: proc1 Start Loop
+2026-01-25 13:17:47,721 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:17:47,721 | DEBUG: proc1 Backup Excel
+2026-01-25 13:17:47,721 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:17:47,721 | DEBUG: proc1 Excel Size 2406964
+2026-01-25 13:17:47,721 | DEBUG: proc1 Backup Size 2396485
+2026-01-25 13:17:47,721 | DEBUG: proc1 Save Success
+2026-01-25 13:21:25,739 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:21:25,740 | DEBUG: proc1 Backup Excel
+2026-01-25 13:21:25,740 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:21:25,740 | DEBUG: proc1 Excel Size 2417754
+2026-01-25 13:21:25,740 | DEBUG: proc1 Backup Size 2406964
+2026-01-25 13:21:25,740 | DEBUG: proc1 Save Success
+2026-01-25 13:25:04,002 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:25:04,002 | DEBUG: proc1 Backup Excel
+2026-01-25 13:25:04,002 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:25:04,002 | DEBUG: proc1 Excel Size 2428533
+2026-01-25 13:25:04,003 | DEBUG: proc1 Backup Size 2417754
+2026-01-25 13:25:04,003 | DEBUG: proc1 Save Success
+2026-01-25 13:28:42,652 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:28:42,652 | DEBUG: proc1 Backup Excel
+2026-01-25 13:28:42,652 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:28:42,652 | DEBUG: proc1 Excel Size 2439285
+2026-01-25 13:28:42,652 | DEBUG: proc1 Backup Size 2428533
+2026-01-25 13:28:42,652 | DEBUG: proc1 Save Success
+2026-01-25 13:32:21,774 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:32:21,775 | DEBUG: proc1 Backup Excel
+2026-01-25 13:32:21,775 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:32:21,775 | DEBUG: proc1 Excel Size 2450104
+2026-01-25 13:32:21,775 | DEBUG: proc1 Backup Size 2439285
+2026-01-25 13:32:21,775 | DEBUG: proc1 Save Success
+2026-01-25 13:36:00,644 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:36:00,644 | DEBUG: proc1 Backup Excel
+2026-01-25 13:36:00,644 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:36:00,644 | DEBUG: proc1 Excel Size 2460887
+2026-01-25 13:36:00,644 | DEBUG: proc1 Backup Size 2450104
+2026-01-25 13:36:00,644 | DEBUG: proc1 Save Success
+2026-01-25 13:39:39,676 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:39:39,676 | DEBUG: proc1 Backup Excel
+2026-01-25 13:39:39,676 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:39:39,677 | DEBUG: proc1 Excel Size 2471638
+2026-01-25 13:39:39,677 | DEBUG: proc1 Backup Size 2460887
+2026-01-25 13:39:39,677 | DEBUG: proc1 Save Success
+2026-01-25 13:43:18,835 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:43:18,836 | DEBUG: proc1 Backup Excel
+2026-01-25 13:43:18,836 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:43:18,836 | DEBUG: proc1 Excel Size 2482426
+2026-01-25 13:43:18,836 | DEBUG: proc1 Backup Size 2471638
+2026-01-25 13:43:18,836 | DEBUG: proc1 Save Success
+2026-01-25 13:46:58,077 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:46:58,078 | DEBUG: proc1 Backup Excel
+2026-01-25 13:46:58,078 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:46:58,079 | DEBUG: proc1 Excel Size 2493214
+2026-01-25 13:46:58,080 | DEBUG: proc1 Backup Size 2482426
+2026-01-25 13:46:58,081 | DEBUG: proc1 Save Success
+2026-01-25 13:50:37,171 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:50:37,171 | DEBUG: proc1 Backup Excel
+2026-01-25 13:50:37,171 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:50:37,171 | DEBUG: proc1 Excel Size 2504046
+2026-01-25 13:50:37,171 | DEBUG: proc1 Backup Size 2493214
+2026-01-25 13:50:37,172 | DEBUG: proc1 Save Success
+2026-01-25 13:54:15,749 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:54:15,749 | DEBUG: proc1 Backup Excel
+2026-01-25 13:54:15,749 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:54:15,750 | DEBUG: proc1 Excel Size 2514871
+2026-01-25 13:54:15,750 | DEBUG: proc1 Backup Size 2504046
+2026-01-25 13:54:15,750 | DEBUG: proc1 Save Success
+2026-01-25 13:57:55,350 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 13:57:55,350 | DEBUG: proc1 Backup Excel
+2026-01-25 13:57:55,350 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 13:57:55,350 | DEBUG: proc1 Excel Size 2525623
+2026-01-25 13:57:55,350 | DEBUG: proc1 Backup Size 2514871
+2026-01-25 13:57:55,350 | DEBUG: proc1 Save Success
+2026-01-25 14:01:35,014 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:01:35,014 | DEBUG: proc1 Backup Excel
+2026-01-25 14:01:35,014 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:01:35,014 | DEBUG: proc1 Excel Size 2536472
+2026-01-25 14:01:35,015 | DEBUG: proc1 Backup Size 2525623
+2026-01-25 14:01:35,015 | DEBUG: proc1 Save Success
+2026-01-25 14:05:15,063 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:05:15,063 | DEBUG: proc1 Backup Excel
+2026-01-25 14:05:15,064 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:05:15,064 | DEBUG: proc1 Excel Size 2547257
+2026-01-25 14:05:15,064 | DEBUG: proc1 Backup Size 2536472
+2026-01-25 14:05:15,064 | DEBUG: proc1 Save Success
+2026-01-25 14:08:54,915 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:08:54,915 | DEBUG: proc1 Backup Excel
+2026-01-25 14:08:54,915 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:08:54,915 | DEBUG: proc1 Excel Size 2558047
+2026-01-25 14:08:54,916 | DEBUG: proc1 Backup Size 2547257
+2026-01-25 14:08:54,916 | DEBUG: proc1 Save Success
+2026-01-25 14:12:34,965 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:12:34,965 | DEBUG: proc1 Backup Excel
+2026-01-25 14:12:34,966 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:12:34,966 | DEBUG: proc1 Excel Size 2568839
+2026-01-25 14:12:34,966 | DEBUG: proc1 Backup Size 2558047
+2026-01-25 14:12:34,966 | DEBUG: proc1 Save Success
+2026-01-25 14:15:41,094 | INFO: Restarting machine: 2026-01-25 14:14:41.093738
+2026-01-25 14:15:53,538 | DEBUG: Starting App
+2026-01-25 14:15:53,539 | INFO: Initializing App
+2026-01-25 14:15:53,539 | DEBUG: Start module_IO
+2026-01-25 14:15:53,539 | DEBUG: Starting process: module_IO.py
+2026-01-25 14:15:53,540 | DEBUG: Process module_IO.py started with PID: 490720
+2026-01-25 14:15:53,540 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 14:15:54,541 | DEBUG: Starting process: data_handler.py
+2026-01-25 14:15:54,542 | DEBUG: Process data_handler.py started with PID: 490727
+2026-01-25 14:15:54,542 | DEBUG: Init GUI Tkinter
+2026-01-25 14:15:54,778 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 14:15:54,780 | DEBUG: proc2 Initialize program
+2026-01-25 14:15:54,780 | DEBUG: proc2 Start loop
+2026-01-25 14:16:33,694 | DEBUG: proc1 Initialize Program
+2026-01-25 14:16:33,695 | DEBUG: proc1 Open Existing Excel
+2026-01-25 14:16:33,695 | DEBUG: proc1 Start Loop
+2026-01-25 14:20:07,632 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:20:07,633 | DEBUG: proc1 Backup Excel
+2026-01-25 14:20:07,633 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:20:07,633 | DEBUG: proc1 Excel Size 2579185
+2026-01-25 14:20:07,634 | DEBUG: proc1 Backup Size 2568839
+2026-01-25 14:20:07,634 | DEBUG: proc1 Save Success
+2026-01-25 14:23:47,133 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:23:47,133 | DEBUG: proc1 Backup Excel
+2026-01-25 14:23:47,133 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:23:47,133 | DEBUG: proc1 Excel Size 2590025
+2026-01-25 14:23:47,133 | DEBUG: proc1 Backup Size 2579185
+2026-01-25 14:23:47,133 | DEBUG: proc1 Save Success
+2026-01-25 14:27:28,316 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:27:28,316 | DEBUG: proc1 Backup Excel
+2026-01-25 14:27:28,316 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:27:28,317 | DEBUG: proc1 Excel Size 2600766
+2026-01-25 14:27:28,317 | DEBUG: proc1 Backup Size 2590025
+2026-01-25 14:27:28,317 | DEBUG: proc1 Save Success
+2026-01-25 14:31:09,113 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:31:09,113 | DEBUG: proc1 Backup Excel
+2026-01-25 14:31:09,113 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:31:09,114 | DEBUG: proc1 Excel Size 2611658
+2026-01-25 14:31:09,114 | DEBUG: proc1 Backup Size 2600766
+2026-01-25 14:31:09,114 | DEBUG: proc1 Save Success
+2026-01-25 14:34:50,189 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:34:50,189 | DEBUG: proc1 Backup Excel
+2026-01-25 14:34:50,189 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:34:50,190 | DEBUG: proc1 Excel Size 2622518
+2026-01-25 14:34:50,190 | DEBUG: proc1 Backup Size 2611658
+2026-01-25 14:34:50,190 | DEBUG: proc1 Save Success
+2026-01-25 14:38:31,426 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:38:31,426 | DEBUG: proc1 Backup Excel
+2026-01-25 14:38:31,426 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:38:31,426 | DEBUG: proc1 Excel Size 2633365
+2026-01-25 14:38:31,426 | DEBUG: proc1 Backup Size 2622518
+2026-01-25 14:38:31,426 | DEBUG: proc1 Save Success
+2026-01-25 14:42:13,074 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:42:13,075 | DEBUG: proc1 Backup Excel
+2026-01-25 14:42:13,076 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:42:13,077 | DEBUG: proc1 Excel Size 2644204
+2026-01-25 14:42:13,077 | DEBUG: proc1 Backup Size 2633365
+2026-01-25 14:42:13,078 | DEBUG: proc1 Save Success
+2026-01-25 14:45:55,280 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:45:55,281 | DEBUG: proc1 Backup Excel
+2026-01-25 14:45:55,281 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:45:55,281 | DEBUG: proc1 Excel Size 2655009
+2026-01-25 14:45:55,281 | DEBUG: proc1 Backup Size 2644204
+2026-01-25 14:45:55,281 | DEBUG: proc1 Save Success
+2026-01-25 14:49:36,518 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:49:36,518 | DEBUG: proc1 Backup Excel
+2026-01-25 14:49:36,518 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:49:36,518 | DEBUG: proc1 Excel Size 2665826
+2026-01-25 14:49:36,519 | DEBUG: proc1 Backup Size 2655009
+2026-01-25 14:49:36,519 | DEBUG: proc1 Save Success
+2026-01-25 14:53:18,113 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:53:18,113 | DEBUG: proc1 Backup Excel
+2026-01-25 14:53:18,114 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:53:18,114 | DEBUG: proc1 Excel Size 2676671
+2026-01-25 14:53:18,114 | DEBUG: proc1 Backup Size 2665826
+2026-01-25 14:53:18,114 | DEBUG: proc1 Save Success
+2026-01-25 14:56:59,923 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 14:56:59,923 | DEBUG: proc1 Backup Excel
+2026-01-25 14:56:59,923 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 14:56:59,923 | DEBUG: proc1 Excel Size 2687474
+2026-01-25 14:56:59,923 | DEBUG: proc1 Backup Size 2676671
+2026-01-25 14:56:59,923 | DEBUG: proc1 Save Success
+2026-01-25 15:00:42,068 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:00:42,069 | DEBUG: proc1 Backup Excel
+2026-01-25 15:00:42,069 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:00:42,069 | DEBUG: proc1 Excel Size 2698212
+2026-01-25 15:00:42,069 | DEBUG: proc1 Backup Size 2687474
+2026-01-25 15:00:42,069 | DEBUG: proc1 Save Success
+2026-01-25 15:04:24,611 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:04:24,612 | DEBUG: proc1 Backup Excel
+2026-01-25 15:04:24,612 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:04:24,612 | DEBUG: proc1 Excel Size 2709081
+2026-01-25 15:04:24,612 | DEBUG: proc1 Backup Size 2698212
+2026-01-25 15:04:24,612 | DEBUG: proc1 Save Success
+2026-01-25 15:08:07,147 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:08:07,147 | DEBUG: proc1 Backup Excel
+2026-01-25 15:08:07,147 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:08:07,147 | DEBUG: proc1 Excel Size 2719902
+2026-01-25 15:08:07,147 | DEBUG: proc1 Backup Size 2709081
+2026-01-25 15:08:07,147 | DEBUG: proc1 Save Success
+2026-01-25 15:11:49,808 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:11:49,808 | DEBUG: proc1 Backup Excel
+2026-01-25 15:11:49,808 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:11:49,808 | DEBUG: proc1 Excel Size 2730722
+2026-01-25 15:11:49,808 | DEBUG: proc1 Backup Size 2719902
+2026-01-25 15:11:49,809 | DEBUG: proc1 Save Success
+2026-01-25 15:15:31,468 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:15:31,468 | DEBUG: proc1 Backup Excel
+2026-01-25 15:15:31,468 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:15:31,469 | DEBUG: proc1 Excel Size 2741506
+2026-01-25 15:15:31,469 | DEBUG: proc1 Backup Size 2730722
+2026-01-25 15:15:31,469 | DEBUG: proc1 Save Success
+2026-01-25 15:17:54,953 | INFO: Restarting machine: 2026-01-25 15:16:54.952462
+2026-01-25 15:18:07,280 | DEBUG: Starting App
+2026-01-25 15:18:07,280 | INFO: Initializing App
+2026-01-25 15:18:07,280 | DEBUG: Start module_IO
+2026-01-25 15:18:07,280 | DEBUG: Starting process: module_IO.py
+2026-01-25 15:18:07,282 | DEBUG: Process module_IO.py started with PID: 502773
+2026-01-25 15:18:07,282 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 15:18:08,282 | DEBUG: Starting process: data_handler.py
+2026-01-25 15:18:08,283 | DEBUG: Process data_handler.py started with PID: 502779
+2026-01-25 15:18:08,284 | DEBUG: Init GUI Tkinter
+2026-01-25 15:18:08,525 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 15:18:08,527 | DEBUG: proc2 Initialize program
+2026-01-25 15:18:08,527 | DEBUG: proc2 Start loop
+2026-01-25 15:18:49,164 | DEBUG: proc1 Initialize Program
+2026-01-25 15:18:49,164 | DEBUG: proc1 Open Existing Excel
+2026-01-25 15:18:49,165 | DEBUG: proc1 Start Loop
+2026-01-25 15:22:24,997 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:22:24,997 | DEBUG: proc1 Backup Excel
+2026-01-25 15:22:24,997 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:22:24,998 | DEBUG: proc1 Excel Size 2751902
+2026-01-25 15:22:24,998 | DEBUG: proc1 Backup Size 2741506
+2026-01-25 15:22:24,998 | DEBUG: proc1 Save Success
+2026-01-25 15:26:08,309 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:26:08,309 | DEBUG: proc1 Backup Excel
+2026-01-25 15:26:08,309 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:26:08,309 | DEBUG: proc1 Excel Size 2762630
+2026-01-25 15:26:08,309 | DEBUG: proc1 Backup Size 2751902
+2026-01-25 15:26:08,310 | DEBUG: proc1 Save Success
+2026-01-25 15:29:51,353 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:29:51,354 | DEBUG: proc1 Backup Excel
+2026-01-25 15:29:51,354 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:29:51,354 | DEBUG: proc1 Excel Size 2773394
+2026-01-25 15:29:51,354 | DEBUG: proc1 Backup Size 2762630
+2026-01-25 15:29:51,354 | DEBUG: proc1 Save Success
+2026-01-25 15:33:34,364 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:33:34,364 | DEBUG: proc1 Backup Excel
+2026-01-25 15:33:34,364 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:33:34,364 | DEBUG: proc1 Excel Size 2784197
+2026-01-25 15:33:34,364 | DEBUG: proc1 Backup Size 2773394
+2026-01-25 15:33:34,365 | DEBUG: proc1 Save Success
+2026-01-25 15:37:16,387 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:37:16,387 | DEBUG: proc1 Backup Excel
+2026-01-25 15:37:16,387 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:37:16,387 | DEBUG: proc1 Excel Size 2794922
+2026-01-25 15:37:16,388 | DEBUG: proc1 Backup Size 2784197
+2026-01-25 15:37:16,388 | DEBUG: proc1 Save Success
+2026-01-25 15:40:59,789 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:40:59,789 | DEBUG: proc1 Backup Excel
+2026-01-25 15:40:59,789 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:40:59,789 | DEBUG: proc1 Excel Size 2805720
+2026-01-25 15:40:59,789 | DEBUG: proc1 Backup Size 2794922
+2026-01-25 15:40:59,789 | DEBUG: proc1 Save Success
+2026-01-25 15:44:43,312 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:44:43,312 | DEBUG: proc1 Backup Excel
+2026-01-25 15:44:43,312 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:44:43,312 | DEBUG: proc1 Excel Size 2816552
+2026-01-25 15:44:43,312 | DEBUG: proc1 Backup Size 2805720
+2026-01-25 15:44:43,312 | DEBUG: proc1 Save Success
+2026-01-25 15:48:27,669 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:48:27,669 | DEBUG: proc1 Backup Excel
+2026-01-25 15:48:27,669 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:48:27,670 | DEBUG: proc1 Excel Size 2827359
+2026-01-25 15:48:27,670 | DEBUG: proc1 Backup Size 2816552
+2026-01-25 15:48:27,670 | DEBUG: proc1 Save Success
+2026-01-25 15:52:11,301 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:52:11,301 | DEBUG: proc1 Backup Excel
+2026-01-25 15:52:11,302 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:52:11,302 | DEBUG: proc1 Excel Size 2838218
+2026-01-25 15:52:11,302 | DEBUG: proc1 Backup Size 2827359
+2026-01-25 15:52:11,302 | DEBUG: proc1 Save Success
+2026-01-25 15:55:55,010 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:55:55,010 | DEBUG: proc1 Backup Excel
+2026-01-25 15:55:55,011 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:55:55,011 | DEBUG: proc1 Excel Size 2849012
+2026-01-25 15:55:55,011 | DEBUG: proc1 Backup Size 2838218
+2026-01-25 15:55:55,011 | DEBUG: proc1 Save Success
+2026-01-25 15:59:39,322 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 15:59:39,322 | DEBUG: proc1 Backup Excel
+2026-01-25 15:59:39,322 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 15:59:39,322 | DEBUG: proc1 Excel Size 2859809
+2026-01-25 15:59:39,322 | DEBUG: proc1 Backup Size 2849012
+2026-01-25 15:59:39,322 | DEBUG: proc1 Save Success
+2026-01-25 16:03:23,534 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:03:23,534 | DEBUG: proc1 Backup Excel
+2026-01-25 16:03:23,534 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:03:23,534 | DEBUG: proc1 Excel Size 2870668
+2026-01-25 16:03:23,534 | DEBUG: proc1 Backup Size 2859809
+2026-01-25 16:03:23,534 | DEBUG: proc1 Save Success
+2026-01-25 16:07:08,191 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:07:08,191 | DEBUG: proc1 Backup Excel
+2026-01-25 16:07:08,191 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:07:08,191 | DEBUG: proc1 Excel Size 2881484
+2026-01-25 16:07:08,191 | DEBUG: proc1 Backup Size 2870668
+2026-01-25 16:07:08,191 | DEBUG: proc1 Save Success
+2026-01-25 16:10:52,500 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:10:52,500 | DEBUG: proc1 Backup Excel
+2026-01-25 16:10:52,500 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:10:52,500 | DEBUG: proc1 Excel Size 2892280
+2026-01-25 16:10:52,500 | DEBUG: proc1 Backup Size 2881484
+2026-01-25 16:10:52,500 | DEBUG: proc1 Save Success
+2026-01-25 16:14:37,307 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:14:37,307 | DEBUG: proc1 Backup Excel
+2026-01-25 16:14:37,307 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:14:37,308 | DEBUG: proc1 Excel Size 2903086
+2026-01-25 16:14:37,308 | DEBUG: proc1 Backup Size 2892280
+2026-01-25 16:14:37,308 | DEBUG: proc1 Save Success
+2026-01-25 16:18:22,263 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:18:22,263 | DEBUG: proc1 Backup Excel
+2026-01-25 16:18:22,263 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:18:22,263 | DEBUG: proc1 Excel Size 2913923
+2026-01-25 16:18:22,264 | DEBUG: proc1 Backup Size 2903086
+2026-01-25 16:18:22,264 | DEBUG: proc1 Save Success
+2026-01-25 16:20:08,810 | INFO: Restarting machine: 2026-01-25 16:19:08.810238
+2026-01-25 16:20:21,242 | DEBUG: Starting App
+2026-01-25 16:20:21,243 | INFO: Initializing App
+2026-01-25 16:20:21,243 | DEBUG: Start module_IO
+2026-01-25 16:20:21,243 | DEBUG: Starting process: module_IO.py
+2026-01-25 16:20:21,244 | DEBUG: Process module_IO.py started with PID: 514613
+2026-01-25 16:20:21,244 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 16:20:22,245 | DEBUG: Starting process: data_handler.py
+2026-01-25 16:20:22,246 | DEBUG: Process data_handler.py started with PID: 514620
+2026-01-25 16:20:22,246 | DEBUG: Init GUI Tkinter
+2026-01-25 16:20:22,490 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 16:20:22,492 | DEBUG: proc2 Initialize program
+2026-01-25 16:20:22,492 | DEBUG: proc2 Start loop
+2026-01-25 16:21:06,472 | DEBUG: proc1 Initialize Program
+2026-01-25 16:21:06,472 | DEBUG: proc1 Open Existing Excel
+2026-01-25 16:21:06,472 | DEBUG: proc1 Start Loop
+2026-01-25 16:24:43,252 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:24:43,252 | DEBUG: proc1 Backup Excel
+2026-01-25 16:24:43,252 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:24:43,253 | DEBUG: proc1 Excel Size 2924346
+2026-01-25 16:24:43,253 | DEBUG: proc1 Backup Size 2913923
+2026-01-25 16:24:43,253 | DEBUG: proc1 Save Success
+2026-01-25 16:28:28,352 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:28:28,352 | DEBUG: proc1 Backup Excel
+2026-01-25 16:28:28,352 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:28:28,352 | DEBUG: proc1 Excel Size 2935164
+2026-01-25 16:28:28,353 | DEBUG: proc1 Backup Size 2924346
+2026-01-25 16:28:28,353 | DEBUG: proc1 Save Success
+2026-01-25 16:32:13,684 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:32:13,685 | DEBUG: proc1 Backup Excel
+2026-01-25 16:32:13,685 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:32:13,685 | DEBUG: proc1 Excel Size 2945997
+2026-01-25 16:32:13,685 | DEBUG: proc1 Backup Size 2935164
+2026-01-25 16:32:13,685 | DEBUG: proc1 Save Success
+2026-01-25 16:35:59,453 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:35:59,453 | DEBUG: proc1 Backup Excel
+2026-01-25 16:35:59,453 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:35:59,453 | DEBUG: proc1 Excel Size 2956791
+2026-01-25 16:35:59,454 | DEBUG: proc1 Backup Size 2945997
+2026-01-25 16:35:59,454 | DEBUG: proc1 Save Success
+2026-01-25 16:39:45,140 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:39:45,141 | DEBUG: proc1 Backup Excel
+2026-01-25 16:39:45,141 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:39:45,141 | DEBUG: proc1 Excel Size 2967507
+2026-01-25 16:39:45,141 | DEBUG: proc1 Backup Size 2956791
+2026-01-25 16:39:45,141 | DEBUG: proc1 Save Success
+2026-01-25 16:43:30,891 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:43:30,891 | DEBUG: proc1 Backup Excel
+2026-01-25 16:43:30,891 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:43:30,891 | DEBUG: proc1 Excel Size 2978295
+2026-01-25 16:43:30,891 | DEBUG: proc1 Backup Size 2967507
+2026-01-25 16:43:30,892 | DEBUG: proc1 Save Success
+2026-01-25 16:47:16,874 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:47:16,875 | DEBUG: proc1 Backup Excel
+2026-01-25 16:47:16,875 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:47:16,875 | DEBUG: proc1 Excel Size 2989028
+2026-01-25 16:47:16,875 | DEBUG: proc1 Backup Size 2978295
+2026-01-25 16:47:16,875 | DEBUG: proc1 Save Success
+2026-01-25 16:51:02,321 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:51:02,322 | DEBUG: proc1 Backup Excel
+2026-01-25 16:51:02,323 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:51:02,324 | DEBUG: proc1 Excel Size 2999709
+2026-01-25 16:51:02,325 | DEBUG: proc1 Backup Size 2989028
+2026-01-25 16:51:02,326 | DEBUG: proc1 Save Success
+2026-01-25 16:54:48,320 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:54:48,321 | DEBUG: proc1 Backup Excel
+2026-01-25 16:54:48,321 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:54:48,321 | DEBUG: proc1 Excel Size 3010563
+2026-01-25 16:54:48,321 | DEBUG: proc1 Backup Size 2999709
+2026-01-25 16:54:48,321 | DEBUG: proc1 Save Success
+2026-01-25 16:58:34,842 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 16:58:34,843 | DEBUG: proc1 Backup Excel
+2026-01-25 16:58:34,843 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 16:58:34,843 | DEBUG: proc1 Excel Size 3021320
+2026-01-25 16:58:34,843 | DEBUG: proc1 Backup Size 3010563
+2026-01-25 16:58:34,843 | DEBUG: proc1 Save Success
+2026-01-25 17:02:21,048 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:02:21,048 | DEBUG: proc1 Backup Excel
+2026-01-25 17:02:21,048 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:02:21,048 | DEBUG: proc1 Excel Size 3032245
+2026-01-25 17:02:21,049 | DEBUG: proc1 Backup Size 3021320
+2026-01-25 17:02:21,049 | DEBUG: proc1 Save Success
+2026-01-25 17:06:07,838 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:06:07,838 | DEBUG: proc1 Backup Excel
+2026-01-25 17:06:07,838 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:06:07,838 | DEBUG: proc1 Excel Size 3043030
+2026-01-25 17:06:07,838 | DEBUG: proc1 Backup Size 3032245
+2026-01-25 17:06:07,838 | DEBUG: proc1 Save Success
+2026-01-25 17:09:54,723 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:09:54,723 | DEBUG: proc1 Backup Excel
+2026-01-25 17:09:54,723 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:09:54,723 | DEBUG: proc1 Excel Size 3053827
+2026-01-25 17:09:54,723 | DEBUG: proc1 Backup Size 3043030
+2026-01-25 17:09:54,723 | DEBUG: proc1 Save Success
+2026-01-25 17:13:41,603 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:13:41,604 | DEBUG: proc1 Backup Excel
+2026-01-25 17:13:41,604 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:13:41,604 | DEBUG: proc1 Excel Size 3064642
+2026-01-25 17:13:41,604 | DEBUG: proc1 Backup Size 3053827
+2026-01-25 17:13:41,604 | DEBUG: proc1 Save Success
+2026-01-25 17:17:28,884 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:17:28,885 | DEBUG: proc1 Backup Excel
+2026-01-25 17:17:28,885 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:17:28,885 | DEBUG: proc1 Excel Size 3075422
+2026-01-25 17:17:28,885 | DEBUG: proc1 Backup Size 3064642
+2026-01-25 17:17:28,885 | DEBUG: proc1 Save Success
+2026-01-25 17:21:14,703 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:21:14,703 | DEBUG: proc1 Backup Excel
+2026-01-25 17:21:14,703 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:21:14,704 | DEBUG: proc1 Excel Size 3086209
+2026-01-25 17:21:14,704 | DEBUG: proc1 Backup Size 3075422
+2026-01-25 17:21:14,704 | DEBUG: proc1 Save Success
+2026-01-25 17:22:22,697 | INFO: Restarting machine: 2026-01-25 17:21:22.696987
+2026-01-25 17:22:35,285 | DEBUG: Starting App
+2026-01-25 17:22:35,285 | INFO: Initializing App
+2026-01-25 17:22:35,286 | DEBUG: Start module_IO
+2026-01-25 17:22:35,286 | DEBUG: Starting process: module_IO.py
+2026-01-25 17:22:35,287 | DEBUG: Process module_IO.py started with PID: 526526
+2026-01-25 17:22:35,287 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 17:22:36,288 | DEBUG: Starting process: data_handler.py
+2026-01-25 17:22:36,289 | DEBUG: Process data_handler.py started with PID: 526533
+2026-01-25 17:22:36,289 | DEBUG: Init GUI Tkinter
+2026-01-25 17:22:36,535 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 17:22:36,536 | DEBUG: proc2 Initialize program
+2026-01-25 17:22:36,537 | DEBUG: proc2 Start loop
+2026-01-25 17:23:22,556 | DEBUG: proc1 Initialize Program
+2026-01-25 17:23:22,556 | DEBUG: proc1 Open Existing Excel
+2026-01-25 17:23:22,556 | DEBUG: proc1 Start Loop
+2026-01-25 17:27:03,097 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:27:03,098 | DEBUG: proc1 Backup Excel
+2026-01-25 17:27:03,098 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:27:03,098 | DEBUG: proc1 Excel Size 3096583
+2026-01-25 17:27:03,098 | DEBUG: proc1 Backup Size 3086209
+2026-01-25 17:27:03,098 | DEBUG: proc1 Save Success
+2026-01-25 17:30:50,480 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:30:50,481 | DEBUG: proc1 Backup Excel
+2026-01-25 17:30:50,481 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:30:50,481 | DEBUG: proc1 Excel Size 3107375
+2026-01-25 17:30:50,481 | DEBUG: proc1 Backup Size 3096583
+2026-01-25 17:30:50,481 | DEBUG: proc1 Save Success
+2026-01-25 17:34:36,277 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:34:36,277 | DEBUG: proc1 Backup Excel
+2026-01-25 17:34:36,277 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:34:36,278 | DEBUG: proc1 Excel Size 3118179
+2026-01-25 17:34:36,278 | DEBUG: proc1 Backup Size 3107375
+2026-01-25 17:34:36,278 | DEBUG: proc1 Save Success
+2026-01-25 17:38:24,131 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:38:24,131 | DEBUG: proc1 Backup Excel
+2026-01-25 17:38:24,132 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:38:24,132 | DEBUG: proc1 Excel Size 3128919
+2026-01-25 17:38:24,132 | DEBUG: proc1 Backup Size 3118179
+2026-01-25 17:38:24,132 | DEBUG: proc1 Save Success
+2026-01-25 17:42:11,582 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:42:11,582 | DEBUG: proc1 Backup Excel
+2026-01-25 17:42:11,582 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:42:11,583 | DEBUG: proc1 Excel Size 3139752
+2026-01-25 17:42:11,583 | DEBUG: proc1 Backup Size 3128919
+2026-01-25 17:42:11,583 | DEBUG: proc1 Save Success
+2026-01-25 17:45:59,297 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:45:59,298 | DEBUG: proc1 Backup Excel
+2026-01-25 17:45:59,298 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:45:59,298 | DEBUG: proc1 Excel Size 3150516
+2026-01-25 17:45:59,298 | DEBUG: proc1 Backup Size 3139752
+2026-01-25 17:45:59,299 | DEBUG: proc1 Save Success
+2026-01-25 17:49:47,773 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:49:47,773 | DEBUG: proc1 Backup Excel
+2026-01-25 17:49:47,773 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:49:47,773 | DEBUG: proc1 Excel Size 3161294
+2026-01-25 17:49:47,773 | DEBUG: proc1 Backup Size 3150516
+2026-01-25 17:49:47,774 | DEBUG: proc1 Save Success
+2026-01-25 17:53:35,990 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:53:35,990 | DEBUG: proc1 Backup Excel
+2026-01-25 17:53:35,990 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:53:35,990 | DEBUG: proc1 Excel Size 3172116
+2026-01-25 17:53:35,990 | DEBUG: proc1 Backup Size 3161294
+2026-01-25 17:53:35,990 | DEBUG: proc1 Save Success
+2026-01-25 17:57:24,917 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 17:57:24,918 | DEBUG: proc1 Backup Excel
+2026-01-25 17:57:24,918 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 17:57:24,918 | DEBUG: proc1 Excel Size 3182924
+2026-01-25 17:57:24,918 | DEBUG: proc1 Backup Size 3172116
+2026-01-25 17:57:24,918 | DEBUG: proc1 Save Success
+2026-01-25 18:01:13,772 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:01:13,772 | DEBUG: proc1 Backup Excel
+2026-01-25 18:01:13,772 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:01:13,773 | DEBUG: proc1 Excel Size 3193746
+2026-01-25 18:01:13,773 | DEBUG: proc1 Backup Size 3182924
+2026-01-25 18:01:13,773 | DEBUG: proc1 Save Success
+2026-01-25 18:05:00,943 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:05:00,943 | DEBUG: proc1 Backup Excel
+2026-01-25 18:05:00,943 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:05:00,943 | DEBUG: proc1 Excel Size 3204552
+2026-01-25 18:05:00,943 | DEBUG: proc1 Backup Size 3193746
+2026-01-25 18:05:00,943 | DEBUG: proc1 Save Success
+2026-01-25 18:08:49,438 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:08:49,438 | DEBUG: proc1 Backup Excel
+2026-01-25 18:08:49,438 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:08:49,438 | DEBUG: proc1 Excel Size 3215359
+2026-01-25 18:08:49,438 | DEBUG: proc1 Backup Size 3204552
+2026-01-25 18:08:49,439 | DEBUG: proc1 Save Success
+2026-01-25 18:12:38,212 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:12:38,213 | DEBUG: proc1 Backup Excel
+2026-01-25 18:12:38,213 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:12:38,213 | DEBUG: proc1 Excel Size 3226171
+2026-01-25 18:12:38,213 | DEBUG: proc1 Backup Size 3215359
+2026-01-25 18:12:38,213 | DEBUG: proc1 Save Success
+2026-01-25 18:16:28,606 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:16:28,607 | DEBUG: proc1 Backup Excel
+2026-01-25 18:16:28,607 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:16:28,607 | DEBUG: proc1 Excel Size 3236996
+2026-01-25 18:16:28,607 | DEBUG: proc1 Backup Size 3226171
+2026-01-25 18:16:28,608 | DEBUG: proc1 Save Success
+2026-01-25 18:20:16,824 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:20:16,824 | DEBUG: proc1 Backup Excel
+2026-01-25 18:20:16,824 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:20:16,824 | DEBUG: proc1 Excel Size 3247846
+2026-01-25 18:20:16,824 | DEBUG: proc1 Backup Size 3236996
+2026-01-25 18:20:16,824 | DEBUG: proc1 Save Success
+2026-01-25 18:24:36,711 | INFO: Restarting machine: 2026-01-25 18:23:36.710607
+2026-01-25 18:24:49,258 | DEBUG: Starting App
+2026-01-25 18:24:49,258 | INFO: Initializing App
+2026-01-25 18:24:49,258 | DEBUG: Start module_IO
+2026-01-25 18:24:49,259 | DEBUG: Starting process: module_IO.py
+2026-01-25 18:24:49,260 | DEBUG: Process module_IO.py started with PID: 538430
+2026-01-25 18:24:49,260 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 18:24:50,261 | DEBUG: Starting process: data_handler.py
+2026-01-25 18:24:50,262 | DEBUG: Process data_handler.py started with PID: 538440
+2026-01-25 18:24:50,262 | DEBUG: Init GUI Tkinter
+2026-01-25 18:24:50,522 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 18:24:50,523 | DEBUG: proc2 Initialize program
+2026-01-25 18:24:50,524 | DEBUG: proc2 Start loop
+2026-01-25 18:25:38,313 | DEBUG: proc1 Initialize Program
+2026-01-25 18:25:38,313 | DEBUG: proc1 Open Existing Excel
+2026-01-25 18:25:38,314 | DEBUG: proc1 Start Loop
+2026-01-25 18:29:20,569 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:29:20,569 | DEBUG: proc1 Backup Excel
+2026-01-25 18:29:20,569 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:29:20,569 | DEBUG: proc1 Excel Size 3258257
+2026-01-25 18:29:20,569 | DEBUG: proc1 Backup Size 3247846
+2026-01-25 18:29:20,569 | DEBUG: proc1 Save Success
+2026-01-25 18:33:09,990 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:33:09,991 | DEBUG: proc1 Backup Excel
+2026-01-25 18:33:09,991 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:33:09,991 | DEBUG: proc1 Excel Size 3269087
+2026-01-25 18:33:09,991 | DEBUG: proc1 Backup Size 3258257
+2026-01-25 18:33:09,991 | DEBUG: proc1 Save Success
+2026-01-25 18:37:00,047 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:37:00,048 | DEBUG: proc1 Backup Excel
+2026-01-25 18:37:00,048 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:37:00,048 | DEBUG: proc1 Excel Size 3279862
+2026-01-25 18:37:00,048 | DEBUG: proc1 Backup Size 3269087
+2026-01-25 18:37:00,048 | DEBUG: proc1 Save Success
+2026-01-25 18:40:50,239 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:40:50,240 | DEBUG: proc1 Backup Excel
+2026-01-25 18:40:50,240 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:40:50,240 | DEBUG: proc1 Excel Size 3290656
+2026-01-25 18:40:50,240 | DEBUG: proc1 Backup Size 3279862
+2026-01-25 18:40:50,240 | DEBUG: proc1 Save Success
+2026-01-25 18:44:40,542 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:44:40,542 | DEBUG: proc1 Backup Excel
+2026-01-25 18:44:40,542 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:44:40,542 | DEBUG: proc1 Excel Size 3301345
+2026-01-25 18:44:40,542 | DEBUG: proc1 Backup Size 3290656
+2026-01-25 18:44:40,542 | DEBUG: proc1 Save Success
+2026-01-25 18:48:30,971 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:48:30,971 | DEBUG: proc1 Backup Excel
+2026-01-25 18:48:30,972 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:48:30,972 | DEBUG: proc1 Excel Size 3312146
+2026-01-25 18:48:30,974 | DEBUG: proc1 Backup Size 3301345
+2026-01-25 18:48:30,974 | DEBUG: proc1 Save Success
+2026-01-25 18:52:21,300 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:52:21,300 | DEBUG: proc1 Backup Excel
+2026-01-25 18:52:21,300 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:52:21,300 | DEBUG: proc1 Excel Size 3323066
+2026-01-25 18:52:21,300 | DEBUG: proc1 Backup Size 3312146
+2026-01-25 18:52:21,301 | DEBUG: proc1 Save Success
+2026-01-25 18:56:11,964 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 18:56:11,964 | DEBUG: proc1 Backup Excel
+2026-01-25 18:56:11,964 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 18:56:11,964 | DEBUG: proc1 Excel Size 3333864
+2026-01-25 18:56:11,965 | DEBUG: proc1 Backup Size 3323066
+2026-01-25 18:56:11,965 | DEBUG: proc1 Save Success
+2026-01-25 19:00:00,929 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:00:00,929 | DEBUG: proc1 Backup Excel
+2026-01-25 19:00:00,930 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:00:00,930 | DEBUG: proc1 Excel Size 3344659
+2026-01-25 19:00:00,930 | DEBUG: proc1 Backup Size 3333864
+2026-01-25 19:00:00,930 | DEBUG: proc1 Save Success
+2026-01-25 19:03:52,861 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:03:52,861 | DEBUG: proc1 Backup Excel
+2026-01-25 19:03:52,861 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:03:52,861 | DEBUG: proc1 Excel Size 3355532
+2026-01-25 19:03:52,861 | DEBUG: proc1 Backup Size 3344659
+2026-01-25 19:03:52,862 | DEBUG: proc1 Save Success
+2026-01-25 19:07:42,415 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:07:42,416 | DEBUG: proc1 Backup Excel
+2026-01-25 19:07:42,416 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:07:42,416 | DEBUG: proc1 Excel Size 3366306
+2026-01-25 19:07:42,416 | DEBUG: proc1 Backup Size 3355532
+2026-01-25 19:07:42,416 | DEBUG: proc1 Save Success
+2026-01-25 19:11:33,079 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:11:33,079 | DEBUG: proc1 Backup Excel
+2026-01-25 19:11:33,079 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:11:33,079 | DEBUG: proc1 Excel Size 3377168
+2026-01-25 19:11:33,079 | DEBUG: proc1 Backup Size 3366306
+2026-01-25 19:11:33,079 | DEBUG: proc1 Save Success
+2026-01-25 19:15:24,202 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:15:24,203 | DEBUG: proc1 Backup Excel
+2026-01-25 19:15:24,203 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:15:24,203 | DEBUG: proc1 Excel Size 3387963
+2026-01-25 19:15:24,203 | DEBUG: proc1 Backup Size 3377168
+2026-01-25 19:15:24,203 | DEBUG: proc1 Save Success
+2026-01-25 19:19:15,306 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:19:15,306 | DEBUG: proc1 Backup Excel
+2026-01-25 19:19:15,307 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:19:15,307 | DEBUG: proc1 Excel Size 3398758
+2026-01-25 19:19:15,307 | DEBUG: proc1 Backup Size 3387963
+2026-01-25 19:19:15,307 | DEBUG: proc1 Save Success
+2026-01-25 19:23:06,385 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:23:06,385 | DEBUG: proc1 Backup Excel
+2026-01-25 19:23:06,385 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:23:06,385 | DEBUG: proc1 Excel Size 3409581
+2026-01-25 19:23:06,385 | DEBUG: proc1 Backup Size 3398758
+2026-01-25 19:23:06,385 | DEBUG: proc1 Save Success
+2026-01-25 19:26:50,712 | INFO: Restarting machine: 2026-01-25 19:25:50.711992
+2026-01-25 19:27:03,299 | DEBUG: Starting App
+2026-01-25 19:27:03,300 | INFO: Initializing App
+2026-01-25 19:27:03,300 | DEBUG: Start module_IO
+2026-01-25 19:27:03,300 | DEBUG: Starting process: module_IO.py
+2026-01-25 19:27:03,301 | DEBUG: Process module_IO.py started with PID: 550395
+2026-01-25 19:27:03,302 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 19:27:04,302 | DEBUG: Starting process: data_handler.py
+2026-01-25 19:27:04,303 | DEBUG: Process data_handler.py started with PID: 550403
+2026-01-25 19:27:04,303 | DEBUG: Init GUI Tkinter
+2026-01-25 19:27:04,548 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 19:27:04,549 | DEBUG: proc2 Initialize program
+2026-01-25 19:27:04,550 | DEBUG: proc2 Start loop
+2026-01-25 19:27:54,251 | DEBUG: proc1 Initialize Program
+2026-01-25 19:27:54,252 | DEBUG: proc1 Open Existing Excel
+2026-01-25 19:27:54,252 | DEBUG: proc1 Start Loop
+2026-01-25 19:31:38,756 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:31:38,756 | DEBUG: proc1 Backup Excel
+2026-01-25 19:31:38,757 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:31:38,757 | DEBUG: proc1 Excel Size 3419953
+2026-01-25 19:31:38,757 | DEBUG: proc1 Backup Size 3409581
+2026-01-25 19:31:38,757 | DEBUG: proc1 Save Success
+2026-01-25 19:35:30,628 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:35:30,628 | DEBUG: proc1 Backup Excel
+2026-01-25 19:35:30,629 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:35:30,629 | DEBUG: proc1 Excel Size 3430812
+2026-01-25 19:35:30,630 | DEBUG: proc1 Backup Size 3419953
+2026-01-25 19:35:30,630 | DEBUG: proc1 Save Success
+2026-01-25 19:39:22,801 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:39:22,801 | DEBUG: proc1 Backup Excel
+2026-01-25 19:39:22,801 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:39:22,801 | DEBUG: proc1 Excel Size 3441634
+2026-01-25 19:39:22,801 | DEBUG: proc1 Backup Size 3430812
+2026-01-25 19:39:22,801 | DEBUG: proc1 Save Success
+2026-01-25 19:43:14,788 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:43:14,789 | DEBUG: proc1 Backup Excel
+2026-01-25 19:43:14,789 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:43:14,789 | DEBUG: proc1 Excel Size 3452448
+2026-01-25 19:43:14,789 | DEBUG: proc1 Backup Size 3441634
+2026-01-25 19:43:14,789 | DEBUG: proc1 Save Success
+2026-01-25 19:47:07,338 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:47:07,338 | DEBUG: proc1 Backup Excel
+2026-01-25 19:47:07,339 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:47:07,339 | DEBUG: proc1 Excel Size 3463205
+2026-01-25 19:47:07,339 | DEBUG: proc1 Backup Size 3452448
+2026-01-25 19:47:07,339 | DEBUG: proc1 Save Success
+2026-01-25 19:51:00,117 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:51:00,117 | DEBUG: proc1 Backup Excel
+2026-01-25 19:51:00,117 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:51:00,117 | DEBUG: proc1 Excel Size 3473961
+2026-01-25 19:51:00,118 | DEBUG: proc1 Backup Size 3463205
+2026-01-25 19:51:00,118 | DEBUG: proc1 Save Success
+2026-01-25 19:54:52,744 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:54:52,744 | DEBUG: proc1 Backup Excel
+2026-01-25 19:54:52,744 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:54:52,744 | DEBUG: proc1 Excel Size 3484723
+2026-01-25 19:54:52,744 | DEBUG: proc1 Backup Size 3473961
+2026-01-25 19:54:52,745 | DEBUG: proc1 Save Success
+2026-01-25 19:58:45,662 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 19:58:45,663 | DEBUG: proc1 Backup Excel
+2026-01-25 19:58:45,663 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 19:58:45,663 | DEBUG: proc1 Excel Size 3495466
+2026-01-25 19:58:45,663 | DEBUG: proc1 Backup Size 3484723
+2026-01-25 19:58:45,664 | DEBUG: proc1 Save Success
+2026-01-25 20:02:37,631 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:02:37,632 | DEBUG: proc1 Backup Excel
+2026-01-25 20:02:37,632 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:02:37,632 | DEBUG: proc1 Excel Size 3506268
+2026-01-25 20:02:37,632 | DEBUG: proc1 Backup Size 3495466
+2026-01-25 20:02:37,633 | DEBUG: proc1 Save Success
+2026-01-25 20:06:30,413 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:06:30,413 | DEBUG: proc1 Backup Excel
+2026-01-25 20:06:30,413 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:06:30,414 | DEBUG: proc1 Excel Size 3517077
+2026-01-25 20:06:30,414 | DEBUG: proc1 Backup Size 3506268
+2026-01-25 20:06:30,414 | DEBUG: proc1 Save Success
+2026-01-25 20:10:23,144 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:10:23,144 | DEBUG: proc1 Backup Excel
+2026-01-25 20:10:23,145 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:10:23,145 | DEBUG: proc1 Excel Size 3527843
+2026-01-25 20:10:23,145 | DEBUG: proc1 Backup Size 3517077
+2026-01-25 20:10:23,145 | DEBUG: proc1 Save Success
+2026-01-25 20:14:16,202 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:14:16,202 | DEBUG: proc1 Backup Excel
+2026-01-25 20:14:16,202 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:14:16,203 | DEBUG: proc1 Excel Size 3538617
+2026-01-25 20:14:16,203 | DEBUG: proc1 Backup Size 3527843
+2026-01-25 20:14:16,203 | DEBUG: proc1 Save Success
+2026-01-25 20:18:09,430 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:18:09,430 | DEBUG: proc1 Backup Excel
+2026-01-25 20:18:09,430 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:18:09,430 | DEBUG: proc1 Excel Size 3549351
+2026-01-25 20:18:09,430 | DEBUG: proc1 Backup Size 3538617
+2026-01-25 20:18:09,431 | DEBUG: proc1 Save Success
+2026-01-25 20:22:04,582 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:22:04,582 | DEBUG: proc1 Backup Excel
+2026-01-25 20:22:04,583 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:22:04,583 | DEBUG: proc1 Excel Size 3560162
+2026-01-25 20:22:04,583 | DEBUG: proc1 Backup Size 3549351
+2026-01-25 20:22:04,583 | DEBUG: proc1 Save Success
+2026-01-25 20:25:56,755 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:25:56,755 | DEBUG: proc1 Backup Excel
+2026-01-25 20:25:56,755 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:25:56,755 | DEBUG: proc1 Excel Size 3570927
+2026-01-25 20:25:56,756 | DEBUG: proc1 Backup Size 3560162
+2026-01-25 20:25:56,756 | DEBUG: proc1 Save Success
+2026-01-25 20:29:04,742 | INFO: Restarting machine: 2026-01-25 20:28:04.741559
+2026-01-25 20:29:17,246 | DEBUG: Starting App
+2026-01-25 20:29:17,246 | INFO: Initializing App
+2026-01-25 20:29:17,246 | DEBUG: Start module_IO
+2026-01-25 20:29:17,247 | DEBUG: Starting process: module_IO.py
+2026-01-25 20:29:17,248 | DEBUG: Process module_IO.py started with PID: 562406
+2026-01-25 20:29:17,248 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 20:29:18,248 | DEBUG: Starting process: data_handler.py
+2026-01-25 20:29:18,250 | DEBUG: Process data_handler.py started with PID: 562413
+2026-01-25 20:29:18,250 | DEBUG: Init GUI Tkinter
+2026-01-25 20:29:18,498 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 20:29:18,500 | DEBUG: proc2 Initialize program
+2026-01-25 20:29:18,500 | DEBUG: proc2 Start loop
+2026-01-25 20:30:10,409 | DEBUG: proc1 Initialize Program
+2026-01-25 20:30:10,410 | DEBUG: proc1 Open Existing Excel
+2026-01-25 20:30:10,410 | DEBUG: proc1 Start Loop
+2026-01-25 20:33:57,129 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:33:57,129 | DEBUG: proc1 Backup Excel
+2026-01-25 20:33:57,130 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:33:57,130 | DEBUG: proc1 Excel Size 3581355
+2026-01-25 20:33:57,130 | DEBUG: proc1 Backup Size 3570927
+2026-01-25 20:33:57,130 | DEBUG: proc1 Save Success
+2026-01-25 20:37:51,061 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:37:51,061 | DEBUG: proc1 Backup Excel
+2026-01-25 20:37:51,061 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:37:51,061 | DEBUG: proc1 Excel Size 3592148
+2026-01-25 20:37:51,062 | DEBUG: proc1 Backup Size 3581355
+2026-01-25 20:37:51,062 | DEBUG: proc1 Save Success
+2026-01-25 20:41:46,074 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:41:46,075 | DEBUG: proc1 Backup Excel
+2026-01-25 20:41:46,075 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:41:46,075 | DEBUG: proc1 Excel Size 3602891
+2026-01-25 20:41:46,075 | DEBUG: proc1 Backup Size 3592148
+2026-01-25 20:41:46,075 | DEBUG: proc1 Save Success
+2026-01-25 20:45:38,877 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:45:38,877 | DEBUG: proc1 Backup Excel
+2026-01-25 20:45:38,877 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:45:38,877 | DEBUG: proc1 Excel Size 3613751
+2026-01-25 20:45:38,877 | DEBUG: proc1 Backup Size 3602891
+2026-01-25 20:45:38,877 | DEBUG: proc1 Save Success
+2026-01-25 20:49:33,251 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:49:33,252 | DEBUG: proc1 Backup Excel
+2026-01-25 20:49:33,252 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:49:33,252 | DEBUG: proc1 Excel Size 3624463
+2026-01-25 20:49:33,252 | DEBUG: proc1 Backup Size 3613751
+2026-01-25 20:49:33,252 | DEBUG: proc1 Save Success
+2026-01-25 20:53:27,989 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:53:27,990 | DEBUG: proc1 Backup Excel
+2026-01-25 20:53:27,990 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:53:27,990 | DEBUG: proc1 Excel Size 3635287
+2026-01-25 20:53:27,990 | DEBUG: proc1 Backup Size 3624463
+2026-01-25 20:53:27,990 | DEBUG: proc1 Save Success
+2026-01-25 20:57:22,841 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 20:57:22,841 | DEBUG: proc1 Backup Excel
+2026-01-25 20:57:22,841 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 20:57:22,841 | DEBUG: proc1 Excel Size 3646070
+2026-01-25 20:57:22,841 | DEBUG: proc1 Backup Size 3635287
+2026-01-25 20:57:22,842 | DEBUG: proc1 Save Success
+2026-01-25 21:01:17,116 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:01:17,117 | DEBUG: proc1 Backup Excel
+2026-01-25 21:01:17,117 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:01:17,117 | DEBUG: proc1 Excel Size 3656869
+2026-01-25 21:01:17,117 | DEBUG: proc1 Backup Size 3646070
+2026-01-25 21:01:17,117 | DEBUG: proc1 Save Success
+2026-01-25 21:05:12,634 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:05:12,634 | DEBUG: proc1 Backup Excel
+2026-01-25 21:05:12,634 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:05:12,634 | DEBUG: proc1 Excel Size 3667623
+2026-01-25 21:05:12,634 | DEBUG: proc1 Backup Size 3656869
+2026-01-25 21:05:12,634 | DEBUG: proc1 Save Success
+2026-01-25 21:09:07,599 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:09:07,599 | DEBUG: proc1 Backup Excel
+2026-01-25 21:09:07,599 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:09:07,599 | DEBUG: proc1 Excel Size 3678448
+2026-01-25 21:09:07,599 | DEBUG: proc1 Backup Size 3667623
+2026-01-25 21:09:07,599 | DEBUG: proc1 Save Success
+2026-01-25 21:13:03,097 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:13:03,098 | DEBUG: proc1 Backup Excel
+2026-01-25 21:13:03,098 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:13:03,098 | DEBUG: proc1 Excel Size 3689256
+2026-01-25 21:13:03,098 | DEBUG: proc1 Backup Size 3678448
+2026-01-25 21:13:03,098 | DEBUG: proc1 Save Success
+2026-01-25 21:16:58,325 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:16:58,326 | DEBUG: proc1 Backup Excel
+2026-01-25 21:16:58,326 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:16:58,326 | DEBUG: proc1 Excel Size 3700100
+2026-01-25 21:16:58,326 | DEBUG: proc1 Backup Size 3689256
+2026-01-25 21:16:58,326 | DEBUG: proc1 Save Success
+2026-01-25 21:20:53,996 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:20:53,996 | DEBUG: proc1 Backup Excel
+2026-01-25 21:20:53,997 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:20:53,997 | DEBUG: proc1 Excel Size 3710887
+2026-01-25 21:20:53,997 | DEBUG: proc1 Backup Size 3700100
+2026-01-25 21:20:53,997 | DEBUG: proc1 Save Success
+2026-01-25 21:24:49,683 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:24:49,684 | DEBUG: proc1 Backup Excel
+2026-01-25 21:24:49,684 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:24:49,684 | DEBUG: proc1 Excel Size 3721731
+2026-01-25 21:24:49,684 | DEBUG: proc1 Backup Size 3710887
+2026-01-25 21:24:49,684 | DEBUG: proc1 Save Success
+2026-01-25 21:28:45,464 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:28:45,464 | DEBUG: proc1 Backup Excel
+2026-01-25 21:28:45,464 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:28:45,464 | DEBUG: proc1 Excel Size 3732555
+2026-01-25 21:28:45,465 | DEBUG: proc1 Backup Size 3721731
+2026-01-25 21:28:45,465 | DEBUG: proc1 Save Success
+2026-01-25 21:31:18,873 | INFO: Restarting machine: 2026-01-25 21:30:18.873370
+2026-01-25 21:31:31,279 | DEBUG: Starting App
+2026-01-25 21:31:31,279 | INFO: Initializing App
+2026-01-25 21:31:31,279 | DEBUG: Start module_IO
+2026-01-25 21:31:31,279 | DEBUG: Starting process: module_IO.py
+2026-01-25 21:31:31,280 | DEBUG: Process module_IO.py started with PID: 574117
+2026-01-25 21:31:31,281 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 21:31:32,281 | DEBUG: Starting process: data_handler.py
+2026-01-25 21:31:32,282 | DEBUG: Process data_handler.py started with PID: 574123
+2026-01-25 21:31:32,283 | DEBUG: Init GUI Tkinter
+2026-01-25 21:31:32,528 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 21:31:32,530 | DEBUG: proc2 Initialize program
+2026-01-25 21:31:32,531 | DEBUG: proc2 Start loop
+2026-01-25 21:32:27,746 | DEBUG: proc1 Initialize Program
+2026-01-25 21:32:27,747 | DEBUG: proc1 Open Existing Excel
+2026-01-25 21:32:27,747 | DEBUG: proc1 Start Loop
+2026-01-25 21:36:16,199 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:36:16,199 | DEBUG: proc1 Backup Excel
+2026-01-25 21:36:16,199 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:36:16,199 | DEBUG: proc1 Excel Size 3743017
+2026-01-25 21:36:16,200 | DEBUG: proc1 Backup Size 3732555
+2026-01-25 21:36:16,200 | DEBUG: proc1 Save Success
+2026-01-25 21:40:12,726 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:40:12,726 | DEBUG: proc1 Backup Excel
+2026-01-25 21:40:12,726 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:40:12,726 | DEBUG: proc1 Excel Size 3753838
+2026-01-25 21:40:12,726 | DEBUG: proc1 Backup Size 3743017
+2026-01-25 21:40:12,726 | DEBUG: proc1 Save Success
+2026-01-25 21:44:08,678 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:44:08,679 | DEBUG: proc1 Backup Excel
+2026-01-25 21:44:08,679 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:44:08,679 | DEBUG: proc1 Excel Size 3764663
+2026-01-25 21:44:08,679 | DEBUG: proc1 Backup Size 3753838
+2026-01-25 21:44:08,679 | DEBUG: proc1 Save Success
+2026-01-25 21:48:04,762 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:48:04,762 | DEBUG: proc1 Backup Excel
+2026-01-25 21:48:04,762 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:48:04,762 | DEBUG: proc1 Excel Size 3775465
+2026-01-25 21:48:04,762 | DEBUG: proc1 Backup Size 3764663
+2026-01-25 21:48:04,762 | DEBUG: proc1 Save Success
+2026-01-25 21:52:01,833 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:52:01,833 | DEBUG: proc1 Backup Excel
+2026-01-25 21:52:01,834 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:52:01,835 | DEBUG: proc1 Excel Size 3786326
+2026-01-25 21:52:01,835 | DEBUG: proc1 Backup Size 3775465
+2026-01-25 21:52:01,835 | DEBUG: proc1 Save Success
+2026-01-25 21:55:58,470 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:55:58,470 | DEBUG: proc1 Backup Excel
+2026-01-25 21:55:58,470 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:55:58,471 | DEBUG: proc1 Excel Size 3797100
+2026-01-25 21:55:58,471 | DEBUG: proc1 Backup Size 3786326
+2026-01-25 21:55:58,471 | DEBUG: proc1 Save Success
+2026-01-25 21:59:53,339 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 21:59:53,340 | DEBUG: proc1 Backup Excel
+2026-01-25 21:59:53,340 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 21:59:53,340 | DEBUG: proc1 Excel Size 3807849
+2026-01-25 21:59:53,340 | DEBUG: proc1 Backup Size 3797100
+2026-01-25 21:59:53,340 | DEBUG: proc1 Save Success
+2026-01-25 22:03:50,082 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:03:50,083 | DEBUG: proc1 Backup Excel
+2026-01-25 22:03:50,083 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:03:50,083 | DEBUG: proc1 Excel Size 3818762
+2026-01-25 22:03:50,083 | DEBUG: proc1 Backup Size 3807849
+2026-01-25 22:03:50,083 | DEBUG: proc1 Save Success
+2026-01-25 22:07:46,963 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:07:46,963 | DEBUG: proc1 Backup Excel
+2026-01-25 22:07:46,963 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:07:46,963 | DEBUG: proc1 Excel Size 3829568
+2026-01-25 22:07:46,964 | DEBUG: proc1 Backup Size 3818762
+2026-01-25 22:07:46,964 | DEBUG: proc1 Save Success
+2026-01-25 22:11:43,969 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:11:43,969 | DEBUG: proc1 Backup Excel
+2026-01-25 22:11:43,969 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:11:43,969 | DEBUG: proc1 Excel Size 3840372
+2026-01-25 22:11:43,969 | DEBUG: proc1 Backup Size 3829568
+2026-01-25 22:11:43,969 | DEBUG: proc1 Save Success
+2026-01-25 22:15:41,258 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:15:41,260 | DEBUG: proc1 Backup Excel
+2026-01-25 22:15:41,261 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:15:41,262 | DEBUG: proc1 Excel Size 3851149
+2026-01-25 22:15:41,262 | DEBUG: proc1 Backup Size 3840372
+2026-01-25 22:15:41,263 | DEBUG: proc1 Save Success
+2026-01-25 22:19:38,705 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:19:38,705 | DEBUG: proc1 Backup Excel
+2026-01-25 22:19:38,705 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:19:38,706 | DEBUG: proc1 Excel Size 3861887
+2026-01-25 22:19:38,706 | DEBUG: proc1 Backup Size 3851149
+2026-01-25 22:19:38,706 | DEBUG: proc1 Save Success
+2026-01-25 22:23:38,123 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:23:38,124 | DEBUG: proc1 Backup Excel
+2026-01-25 22:23:38,124 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:23:38,124 | DEBUG: proc1 Excel Size 3872747
+2026-01-25 22:23:38,124 | DEBUG: proc1 Backup Size 3861887
+2026-01-25 22:23:38,125 | DEBUG: proc1 Save Success
+2026-01-25 22:27:34,235 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:27:34,236 | DEBUG: proc1 Backup Excel
+2026-01-25 22:27:34,236 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:27:34,236 | DEBUG: proc1 Excel Size 3883551
+2026-01-25 22:27:34,236 | DEBUG: proc1 Backup Size 3872747
+2026-01-25 22:27:34,236 | DEBUG: proc1 Save Success
+2026-01-25 22:31:31,950 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:31:31,951 | DEBUG: proc1 Backup Excel
+2026-01-25 22:31:31,951 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:31:31,951 | DEBUG: proc1 Excel Size 3894388
+2026-01-25 22:31:31,951 | DEBUG: proc1 Backup Size 3883551
+2026-01-25 22:31:31,951 | DEBUG: proc1 Save Success
+2026-01-25 22:33:32,942 | INFO: Restarting machine: 2026-01-25 22:32:32.941959
+2026-01-25 22:33:45,536 | DEBUG: Starting App
+2026-01-25 22:33:45,536 | INFO: Initializing App
+2026-01-25 22:33:45,536 | DEBUG: Start module_IO
+2026-01-25 22:33:45,536 | DEBUG: Starting process: module_IO.py
+2026-01-25 22:33:45,538 | DEBUG: Process module_IO.py started with PID: 585936
+2026-01-25 22:33:45,538 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 22:33:46,538 | DEBUG: Starting process: data_handler.py
+2026-01-25 22:33:46,539 | DEBUG: Process data_handler.py started with PID: 585942
+2026-01-25 22:33:46,540 | DEBUG: Init GUI Tkinter
+2026-01-25 22:33:46,786 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 22:33:46,788 | DEBUG: proc2 Initialize program
+2026-01-25 22:33:46,788 | DEBUG: proc2 Start loop
+2026-01-25 22:34:43,262 | DEBUG: proc1 Initialize Program
+2026-01-25 22:34:43,262 | DEBUG: proc1 Open Existing Excel
+2026-01-25 22:34:43,262 | DEBUG: proc1 Start Loop
+2026-01-25 22:38:34,607 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:38:34,607 | DEBUG: proc1 Backup Excel
+2026-01-25 22:38:34,607 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:38:34,607 | DEBUG: proc1 Excel Size 3904618
+2026-01-25 22:38:34,608 | DEBUG: proc1 Backup Size 3894388
+2026-01-25 22:38:34,608 | DEBUG: proc1 Save Success
+2026-01-25 22:42:33,567 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:42:33,568 | DEBUG: proc1 Backup Excel
+2026-01-25 22:42:33,568 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:42:33,568 | DEBUG: proc1 Excel Size 3915572
+2026-01-25 22:42:33,568 | DEBUG: proc1 Backup Size 3904618
+2026-01-25 22:42:33,568 | DEBUG: proc1 Save Success
+2026-01-25 22:46:32,384 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:46:32,385 | DEBUG: proc1 Backup Excel
+2026-01-25 22:46:32,386 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:46:32,386 | DEBUG: proc1 Excel Size 3926399
+2026-01-25 22:46:32,386 | DEBUG: proc1 Backup Size 3915572
+2026-01-25 22:46:32,386 | DEBUG: proc1 Save Success
+2026-01-25 22:50:30,365 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:50:30,365 | DEBUG: proc1 Backup Excel
+2026-01-25 22:50:30,365 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:50:30,366 | DEBUG: proc1 Excel Size 3937227
+2026-01-25 22:50:30,366 | DEBUG: proc1 Backup Size 3926399
+2026-01-25 22:50:30,366 | DEBUG: proc1 Save Success
+2026-01-25 22:54:29,049 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:54:29,050 | DEBUG: proc1 Backup Excel
+2026-01-25 22:54:29,050 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:54:29,050 | DEBUG: proc1 Excel Size 3948081
+2026-01-25 22:54:29,050 | DEBUG: proc1 Backup Size 3937227
+2026-01-25 22:54:29,050 | DEBUG: proc1 Save Success
+2026-01-25 22:58:27,917 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 22:58:27,917 | DEBUG: proc1 Backup Excel
+2026-01-25 22:58:27,917 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 22:58:27,918 | DEBUG: proc1 Excel Size 3958897
+2026-01-25 22:58:27,918 | DEBUG: proc1 Backup Size 3948081
+2026-01-25 22:58:27,918 | DEBUG: proc1 Save Success
+2026-01-25 23:02:27,161 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:02:27,161 | DEBUG: proc1 Backup Excel
+2026-01-25 23:02:27,161 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:02:27,161 | DEBUG: proc1 Excel Size 3969744
+2026-01-25 23:02:27,162 | DEBUG: proc1 Backup Size 3958897
+2026-01-25 23:02:27,162 | DEBUG: proc1 Save Success
+2026-01-25 23:06:24,448 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:06:24,449 | DEBUG: proc1 Backup Excel
+2026-01-25 23:06:24,449 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:06:24,449 | DEBUG: proc1 Excel Size 3980547
+2026-01-25 23:06:24,449 | DEBUG: proc1 Backup Size 3969744
+2026-01-25 23:06:24,449 | DEBUG: proc1 Save Success
+2026-01-25 23:10:23,435 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:10:23,435 | DEBUG: proc1 Backup Excel
+2026-01-25 23:10:23,436 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:10:23,436 | DEBUG: proc1 Excel Size 3991363
+2026-01-25 23:10:23,436 | DEBUG: proc1 Backup Size 3980547
+2026-01-25 23:10:23,436 | DEBUG: proc1 Save Success
+2026-01-25 23:14:22,788 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:14:22,788 | DEBUG: proc1 Backup Excel
+2026-01-25 23:14:22,788 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:14:22,788 | DEBUG: proc1 Excel Size 4002146
+2026-01-25 23:14:22,788 | DEBUG: proc1 Backup Size 3991363
+2026-01-25 23:14:22,788 | DEBUG: proc1 Save Success
+2026-01-25 23:18:22,057 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:18:22,057 | DEBUG: proc1 Backup Excel
+2026-01-25 23:18:22,057 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:18:22,057 | DEBUG: proc1 Excel Size 4012911
+2026-01-25 23:18:22,057 | DEBUG: proc1 Backup Size 4002146
+2026-01-25 23:18:22,058 | DEBUG: proc1 Save Success
+2026-01-25 23:22:21,454 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:22:21,454 | DEBUG: proc1 Backup Excel
+2026-01-25 23:22:21,454 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:22:21,454 | DEBUG: proc1 Excel Size 4023758
+2026-01-25 23:22:21,455 | DEBUG: proc1 Backup Size 4012911
+2026-01-25 23:22:21,455 | DEBUG: proc1 Save Success
+2026-01-25 23:26:21,428 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:26:21,428 | DEBUG: proc1 Backup Excel
+2026-01-25 23:26:21,429 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:26:21,429 | DEBUG: proc1 Excel Size 4034589
+2026-01-25 23:26:21,429 | DEBUG: proc1 Backup Size 4023758
+2026-01-25 23:26:21,429 | DEBUG: proc1 Save Success
+2026-01-25 23:30:21,247 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:30:21,247 | DEBUG: proc1 Backup Excel
+2026-01-25 23:30:21,247 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:30:21,247 | DEBUG: proc1 Excel Size 4045309
+2026-01-25 23:30:21,248 | DEBUG: proc1 Backup Size 4034589
+2026-01-25 23:30:21,248 | DEBUG: proc1 Save Success
+2026-01-25 23:34:20,985 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:34:20,985 | DEBUG: proc1 Backup Excel
+2026-01-25 23:34:20,985 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:34:20,985 | DEBUG: proc1 Excel Size 4056070
+2026-01-25 23:34:20,985 | DEBUG: proc1 Backup Size 4045309
+2026-01-25 23:34:20,985 | DEBUG: proc1 Save Success
+2026-01-25 23:35:47,143 | INFO: Restarting machine: 2026-01-25 23:34:47.143292
+2026-01-25 23:35:59,531 | DEBUG: Starting App
+2026-01-25 23:35:59,532 | INFO: Initializing App
+2026-01-25 23:35:59,532 | DEBUG: Start module_IO
+2026-01-25 23:35:59,532 | DEBUG: Starting process: module_IO.py
+2026-01-25 23:35:59,533 | DEBUG: Process module_IO.py started with PID: 597833
+2026-01-25 23:35:59,534 | DEBUG: Sleep 1s then start data_handler.py
+2026-01-25 23:36:00,534 | DEBUG: Starting process: data_handler.py
+2026-01-25 23:36:00,535 | DEBUG: Process data_handler.py started with PID: 597840
+2026-01-25 23:36:00,535 | DEBUG: Init GUI Tkinter
+2026-01-25 23:36:00,778 | DEBUG: Start Threads - Streaming proc 1 and 2, update TK, Watchdog Program
+2026-01-25 23:36:00,779 | DEBUG: proc2 Initialize program
+2026-01-25 23:36:00,780 | DEBUG: proc2 Start loop
+2026-01-25 23:36:59,423 | DEBUG: proc1 Initialize Program
+2026-01-25 23:36:59,423 | DEBUG: proc1 Open Existing Excel
+2026-01-25 23:36:59,423 | DEBUG: proc1 Start Loop
+2026-01-25 23:40:52,487 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:40:52,487 | DEBUG: proc1 Backup Excel
+2026-01-25 23:40:52,487 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:40:52,487 | DEBUG: proc1 Excel Size 4066390
+2026-01-25 23:40:52,488 | DEBUG: proc1 Backup Size 4056070
+2026-01-25 23:40:52,488 | DEBUG: proc1 Save Success
+2026-01-25 23:44:52,563 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:44:52,563 | DEBUG: proc1 Backup Excel
+2026-01-25 23:44:52,563 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:44:52,564 | DEBUG: proc1 Excel Size 4077110
+2026-01-25 23:44:52,564 | DEBUG: proc1 Backup Size 4066390
+2026-01-25 23:44:52,564 | DEBUG: proc1 Save Success
+2026-01-25 23:48:53,328 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:48:53,328 | DEBUG: proc1 Backup Excel
+2026-01-25 23:48:53,328 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:48:53,328 | DEBUG: proc1 Excel Size 4087875
+2026-01-25 23:48:53,328 | DEBUG: proc1 Backup Size 4077110
+2026-01-25 23:48:53,328 | DEBUG: proc1 Save Success
+2026-01-25 23:52:53,972 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:52:53,972 | DEBUG: proc1 Backup Excel
+2026-01-25 23:52:53,972 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:52:53,972 | DEBUG: proc1 Excel Size 4098676
+2026-01-25 23:52:53,972 | DEBUG: proc1 Backup Size 4087875
+2026-01-25 23:52:53,972 | DEBUG: proc1 Save Success
+2026-01-25 23:56:54,968 | DEBUG: proc1 Check Current Excel Size
+2026-01-25 23:56:54,968 | DEBUG: proc1 Backup Excel
+2026-01-25 23:56:54,968 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-25 23:56:54,968 | DEBUG: proc1 Excel Size 4109453
+2026-01-25 23:56:54,968 | DEBUG: proc1 Backup Size 4098676
+2026-01-25 23:56:54,968 | DEBUG: proc1 Save Success
+2026-01-26 00:00:55,685 | DEBUG: proc1 Check Current Excel Size
+2026-01-26 00:00:55,685 | DEBUG: proc1 Backup Excel
+2026-01-26 00:00:55,685 | DEBUG: proc1 Try to save Excel from work stage
+2026-01-26 00:00:55,686 | DEBUG: proc1 Excel Size 4120299
+2026-01-26 00:00:55,686 | DEBUG: proc1 Backup Size 4109453
+2026-01-26 00:00:55,686 | DEBUG: proc1 Save Success
+2026-01-26 00:01:00,930 | INFO: Restarting machine: 2026-01-26 00:00:00.930196

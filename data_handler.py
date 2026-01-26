@@ -8,7 +8,7 @@ from requests.models import StreamConsumedError
 from requests.exceptions import Timeout
 import random
 
-engineName = "Trafo X"
+engineName = "Trafo Indorama 1"
 teleURL = 'http://192.168.4.120:1444/api/transformer/sendNotificationToTelegramGroup'
 progStat = True
 debugMsg = False
